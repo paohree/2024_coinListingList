@@ -2,5 +2,6 @@
 따로 패키지 설치하기가 더 귀찮을 것   
 어려운 것 전혀 없으나 페어 추가가 필요하면 요청할 것   
 
-![Uploading 스크린샷 2024-08-28 오전 2.38.42.png…]()
+
+<img width="394" alt="screenshot" src="https://github.com/user-attachments/assets/0c630050-755f-4653-b3cb-268d7c233c68">
 
